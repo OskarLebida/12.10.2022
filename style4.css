@@ -1,0 +1,11 @@
+body {
+    background-color: lime;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 500px;
+    background-color: yellow;
+    ;
+}
